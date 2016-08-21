@@ -1,0 +1,65 @@
+* {
+	box-sizing: border-box;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+	padding-left: auto;
+	padding-right: 10px;
+	margin-top: -5px;
+	margin-bottom: 25px;
+	position: relative;
+}
+
+.navbar-brand {
+	margin-top: -5px;
+}
+
+#home-page-title {
+	font-family: 'Anton', sans-serif;
+	font-size: 300%;
+	padding-bottom: 10px;
+}
+
+#chicken h2 {
+	font-family: 'Anton', sans-serif;
+	margin-top: 5px;
+}
+
+#beef h2 {
+	font-family: 'Anton', sans-serif;
+	margin-top: 5px;
+}
+
+#sushi h2 {
+	font-family: 'Anton', sans-serif;
+	margin-top: 5px;
+}
+
+.section {
+  background-color: #f2f2f2;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  padding: 20px;
+  /*position: relative;
+  min-height:200px;
+  margin-left:atuo;
+  margin-right: auto;  
+  box-sizing: border-box;
+  min-width: 300px;
+  overflow: hidden;*/
+  
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+/* FOOTER */
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #222;
+  border-top: 0;
+  color: #fff;
+}
